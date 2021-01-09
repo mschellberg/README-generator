@@ -9,13 +9,13 @@
 * [Questions](#questions)
 
 ### Description:
-i love to code
+To generate a high quality professional readme
 ### Installation:
-npm install
+You must download Node js
 ### Usage:
-hello world
+node ./src/index.js
 ### Contribution:
-yes
+Melanie Schellberg
 ### License:
 MIT
 
