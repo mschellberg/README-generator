@@ -1,4 +1,5 @@
 # README generator 
+A command-line application that generates a professional README file from a users input using in the Inquirer package.
 
 ## Table of Contents:
 * [Description](#description)
@@ -9,7 +10,7 @@
 * [Questions](#questions)
 
 ### Description:
-To generate a high quality professional readme
+To generate a readme file by using cli
 ### Installation:
 You must download Node js
 ### Usage:
